@@ -1,0 +1,185 @@
+﻿country;code;year;Maternal_mortality_2020
+Belarus;BLR;2020;1
+Northern Mariana Islands;MNP;2020;2
+Philippines;PHL;2020;2
+Australia;AUS;2020;3
+Czech Republic;CZE;2020;3
+Iceland;ISL;2020;3
+Israel;ISR;2020;3
+Macao;MAC;2020;3
+Mali;MLI;2020;3
+Serbia;SRB;2020;3
+South Sudan;SSD;2020;3
+Germany;DEU;2020;4
+Japan;JPN;2020;4
+Nepal;NPL;2020;4
+Austria;AUT;2020;5
+Belgium;BEL;2020;5
+Croatia;HRV;2020;5
+Denmark;DNK;2020;5
+Estonia;EST;2020;5
+Ireland;IRL;2020;5
+Italy;ITA;2020;5
+Sint Maarten;SXM;2020;5
+Slovakia;SVK;2020;5
+Swaziland;SWZ;2020;5
+Turkey;TUR;2020;5
+Bosnia and Herzegovina;BIH;2020;6
+Lithuania;LTU;2020;6
+Mongolia;MNG;2020;6
+Bulgaria;BGR;2020;7
+Kuwait;KWT;2020;7
+New Caledonia;NCL;2020;7
+Sierra Leone;SLE;2020;7
+Sweden;SWE;2020;7
+Albania;ALB;2020;8
+Finland;FIN;2020;8
+France;FRA;2020;8
+Greece;GRC;2020;8
+Puerto Rico;PRI;2020;8
+South Africa;ZAF;2020;8
+Liechtenstein;LIE;2020;9
+Ukraine;UKR;2020;9
+Republic of the Congo;COD;2020;10
+Senegal;SEN;2020;10
+United Arab Emirates;ARE;2020;10
+Canada;CAN;2020;11
+Micronesia;FSM;2020;12
+Poland;POL;2020;12
+Kazakhstan;KAZ;2020;13
+Romania;ROU;2020;14
+Chile;CHL;2020;15
+Hungary;HUN;2020;15
+Bahrain;BHR;2020;16
+Sao Tome and Principe;STP;2020;16
+Egypt;EGY;2020;17
+Norway;NOR;2020;17
+Syrian Arab Republic;SYR;2020;17
+Tunisia;TUN;2020;17
+Uganda;UGA;2020;17
+United States of America;USA;2020;19
+Palau;PLW;2020;20
+Antigua and Barbuda;ATG;2020;21
+Grenada;GRD;2020;21
+Latvia;LVA;2020;21
+Malawi;MWI;2020;21
+United Kingdom;GBR;2020;21
+Costa Rica;CRI;2020;22
+Iran;IRN;2020;22
+China;CHN;2020;23
+Armenia;ARM;2020;27
+Tonga;TON;2020;27
+Georgia;GEO;2020;28
+Spain;ESP;2020;29
+Tanzania;TZA;2020;29
+Switzerland;CHE;2020;30
+Uruguay;URY;2020;30
+Portugal;PRT;2020;34
+Trinidad and Tobago;TTO;2020;37
+Fiji;FJI;2020;38
+Barbados;BRB;2020;39
+Cuba;CUB;2020;39
+Monaco;MCO;2020;39
+Azerbaijan;AZE;2020;41
+Jordan;JOR;2020;41
+Cape Verde;CPV;2020;42
+El Salvador;SLV;2020;43
+Brunei;BRN;2020;44
+Argentina;ARG;2020;45
+Kyrgyzstan;KGZ;2020;50
+Palestine;PSE;2020;50
+Malaysia;MYS;2020;57
+Mauritius;MUS;2020;59
+Saint Vincent and the Grenadines;VCT;2020;59
+Bhutan;BTN;2020;60
+Saint Martin;MAF;2020;62
+Ecuador;ECU;2020;66
+Cyprus;CYP;2020;68
+Paraguay;PRY;2020;69
+Papua New Guinea;PNG;2020;71
+Brazil;BRA;2020;72
+Honduras;HND;2020;72
+Liberia;LBR;2020;72
+Montenegro;MNE;2020;72
+Saint Kitts and Nevis;KNA;2020;73
+Mexico;MEX;2020;74
+Colombia;COL;2020;75
+Iraq;IRQ;2020;76
+Kiribati;KIR;2020;76
+Bahamas;BHS;2020;77
+Algeria;DZA;2020;78
+New Zealand;NZL;2020;78
+Peru;PER;2020;78
+Mauritania;MRT;2020;84
+Uzbekistan;UZB;2020;94
+Guatemala;GTM;2020;96
+Sudan;SDN;2020;96
+Jamaica;JAM;2020;99
+India;IND;2020;103
+Dominican Republic;DOM;2020;107
+Nigeria;NGA;2020;107
+Guyana;GUY;2020;112
+Slovenia;SVN;2020;122
+Bangladesh;BGD;2020;123
+Venezuela;VEN;2020;124
+Lao ;LAO;2020;126
+Togo;TGO;2020;126
+Morocco;MAR;2020;127
+Somalia;SOM;2020;127
+Belize;BLZ;2020;130
+Yemen;YEM;2020;135
+San Marino;SMR;2020;146
+Oman;OMN;2020;154
+Bolivia;BOL;2020;161
+Indonesia;IDN;2020;173
+Nauru;NRU;2020;174
+Mozambique;MOZ;2020;179
+Virgin Islands US;VIR;2020;183
+Botswana;BWA;2020;186
+Panama;PAN;2020;192
+Thailand;THA;2020;204
+Equatorial Guinea;GNQ;2020;212
+Myanmar;MMR;2020;215
+Comoros;COM;2020;217
+Cambodia;KHM;2020;218
+Angola;AGO;2020;222
+Gabon;GAB;2020;227
+Djibouti;DJI;2020;234
+Tajikistan;TJK;2020;238
+Suriname;SUR;2020;240
+Russia;RUS;2020;259
+Vanuatu;VUT;2020;259
+Saudi Arabia;SAU;2020;261
+Ghana;GHA;2020;263
+Burkina Faso;BFA;2020;264
+Ethiopia;ETH;2020;267
+Sri Lanka;LKA;2020;270
+Congo;COG;2020;282
+Tuvalu;TUV;2020;284
+Eritrea;ERI;2020;322
+Haiti;HTI;2020;350
+Zambia;ZMB;2020;357
+Madagascar;MDG;2020;381
+Macedonia;MKD;2020;392
+Timor-Leste;TLS;2020;399
+Cameroon;CMR;2020;438
+Maldives;MDV;2020;440
+Nicaragua;NIC;2020;441
+Seychelles;SYC;2020;443
+Gambia;GMB;2020;458
+Marshall Islands;MHL;2020;464
+Ivory Coast;CIV;2020;480
+Burundi;BDI;2020;494
+Benin;BEN;2020;523
+Kenya;KEN;2020;530
+Qatar;QAT;2020;547
+Guinea;GIN;2020;553
+Lebanon;LBN;2020;566
+Afghanistan;AFG;2020;620
+Solomon Islands;SLB;2020;621
+Lesotho;LSO;2020;652
+Guinea-Bissau;GNB;2020;725
+Central African Republic;CAF;2020;835
+Niger;NER;2020;1047
+Chad;TCD;2020;1063
+South Korea;KOR;2020;1223
